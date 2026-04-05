@@ -179,8 +179,6 @@ jupyter notebook natural_language_processing_logistic_regression.ipynb
 ## 👤 Author
 
 **Samsur**
-- 💼 [LinkedIn](www.linkedin.com/in/samsure-rahman-02a43a279)
-- 🐙 [GitHub](https://github.com/samsure13003)
 
 ---
 
